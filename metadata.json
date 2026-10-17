@@ -1,0 +1,6 @@
+{
+  "name": "Super Mario Bros: Kingdom Quest",
+  "description": "A 60fps 2D platformer featuring classic Mushroom Kingdom physics, power-ups, Goombas, Koopa shells, Piranha Plants, Hammer Bros, and Bowser's Castle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
